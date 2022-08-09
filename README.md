@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Webpack-1a72b6?style=for-the-badge&logo=webpack&logoColor=white" />
     <img src="https://img.shields.io/badge/Storybook-f1447e?style=for-the-badge&logo=storybook&logoColor=white" />
     <img src="https://img.shields.io/badge/Jest-913e56?style=for-the-badge&logo=jest&logoColor=white" />
+    <br/>write about: antdesign, lodash, immutable (no icon), cssmodules, reactquery, eslint, i18next, SSR (no icon), sass, less
   </div>
 </details>
 
@@ -43,6 +44,7 @@
     <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
     <img src="https://img.shields.io/badge/Nest.js-white?style=for-the-badge&logo=nestjs&logoColor=d5214b" />
     <img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=f2ce30" />
+    <br/>write about: docker
   </div>
 </details>
 
@@ -55,6 +57,7 @@
     <img src="https://img.shields.io/badge/Photoshop-011c33?style=for-the-badge&logo=adobephotoshop&logoColor=2fa0f2" />
     <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=1c1c1c" />
     <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=247cf2" />
+    <br/>write about: git
   </div>
 </details>
 
