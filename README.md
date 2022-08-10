@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-gray?style=for-the-badge&logo=express&logoColor=88bc3c" />
     <img src="https://img.shields.io/badge/Prisma-white?style=for-the-badge&logo=prisma&logoColor=0c3047" />
-    <br/> write about: nodemon
+    <img src="https://img.shields.io/badge/Nodemon-70c546?style=for-the-badge&logo=nodemon&logoColor=4b493c" />
   </div>
 </details>
 
