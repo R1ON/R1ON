@@ -9,9 +9,14 @@
   <div>
     <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sass-c06191?style=for-the-badge&logo=sass&logoColor=white" />  
+    <img src="https://img.shields.io/badge/Less-284a7e?style=for-the-badge&logo=less&logoColor=white" />  
+    <img src="https://img.shields.io/badge/CssModules-white?style=for-the-badge&logo=cssmodules&logoColor=black" />  
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/ReactQuery-002a47?style=for-the-badge&logo=reactquery&logoColor=f13e50" />
     <img src="https://img.shields.io/badge/Redux-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/ReduxToolkit-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/ReduxSaga-gray?style=for-the-badge&logo=reduxsaga&logoColor=7ecc61" />
     <img src="https://img.shields.io/badge/MobX-d45819?style=for-the-badge&logo=mobx&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -19,8 +24,11 @@
     <img src="https://img.shields.io/badge/Webpack-1a72b6?style=for-the-badge&logo=webpack&logoColor=white" />
     <img src="https://img.shields.io/badge/Storybook-f1447e?style=for-the-badge&logo=storybook&logoColor=white" />
     <img src="https://img.shields.io/badge/Jest-913e56?style=for-the-badge&logo=jest&logoColor=white" />
-    <br/>write about: antdesign, lodash, immutable (no icon), cssmodules, reactquery, eslint, i18next, SSR (no icon), sass, less, redux-toolkit (no icon),
-    graphql, lerna, canvas (no icon), 
+    <img src="https://img.shields.io/badge/i18next-048e81?style=for-the-badge&logo=i18next&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESlint-462fb9?style=for-the-badge&logo=eslint&logoColor=white" />  
+    <img src="https://img.shields.io/badge/Lerna-white?style=for-the-badge&logo=lerna&logoColor=black" />  
+    <br/>write about: antdesign, lodash, immutable (no icon), SSR (no icon),
+    graphql, canvas (no icon), 
   </div>
 </details>
 
