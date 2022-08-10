@@ -19,7 +19,10 @@
     <img src="https://img.shields.io/badge/ReduxToolkit-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/ReduxSaga-gray?style=for-the-badge&logo=reduxsaga&logoColor=7ecc61" />
     <img src="https://img.shields.io/badge/MobX-d45819?style=for-the-badge&logo=mobx&logoColor=white" />
+    <img src="https://img.shields.io/badge/GraphQL-d40490?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lodash-328bf1?style=for-the-badge&logo=lodash&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/ANTD-ec4152?style=for-the-badge&logo=antdesign&logoColor=white" />
     <img src="https://img.shields.io/badge/Gulp-dc4a4d?style=for-the-badge&logo=gulp&logoColor=white" />
     <img src="https://img.shields.io/badge/Webpack-1a72b6?style=for-the-badge&logo=webpack&logoColor=white" />
     <img src="https://img.shields.io/badge/Storybook-f1447e?style=for-the-badge&logo=storybook&logoColor=white" />
@@ -27,8 +30,7 @@
     <img src="https://img.shields.io/badge/i18next-048e81?style=for-the-badge&logo=i18next&logoColor=white" />
     <img src="https://img.shields.io/badge/ESlint-462fb9?style=for-the-badge&logo=eslint&logoColor=white" />  
     <img src="https://img.shields.io/badge/Lerna-white?style=for-the-badge&logo=lerna&logoColor=black" />  
-    <br/>write about: antdesign, lodash, immutable (no icon), SSR (no icon),
-    graphql, canvas (no icon), 
+    <br/>write about: immutable (no icon), SSR (no icon), canvas (no icon), 
   </div>
 </details>
 
