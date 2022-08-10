@@ -46,7 +46,11 @@
     <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
     <img src="https://img.shields.io/badge/Nest.js-white?style=for-the-badge&logo=nestjs&logoColor=d5214b" />
     <img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=f2ce30" />
-    <br/>write about: docker, postgresql, mongodb, sqlite, elasticsearch, 
+    <img src="https://img.shields.io/badge/Docker-218ee0?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-2f5c8b?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-021c29?style=for-the-badge&logo=mongodb&logoColor=00e25f" />
+    <img src="https://img.shields.io/badge/SQLite-033953?style=for-the-badge&logo=sqlite&logoColor=7cc1e1" />
+    <img src="https://img.shields.io/badge/Elasticsearch-white?style=for-the-badge&logo=elasticsearch&logoColor=black" />
   </div>
 </details>
 
