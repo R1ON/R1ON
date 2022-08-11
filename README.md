@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Redux-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/ReduxToolkit-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/ReduxSaga-gray?style=for-the-badge&logo=reduxsaga&logoColor=7ecc61" />
+    <img src="https://img.shields.io/badge/Reselect-gray?style=for-the-badge" />
     <img src="https://img.shields.io/badge/MobX-d45819?style=for-the-badge&logo=mobx&logoColor=white" />
     <img src="https://img.shields.io/badge/GraphQL-d40490?style=for-the-badge&logo=graphql&logoColor=white" />
     <img src="https://img.shields.io/badge/Lodash-328bf1?style=for-the-badge&logo=lodash&logoColor=white" />
