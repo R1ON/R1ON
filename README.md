@@ -82,5 +82,5 @@
 </details>
 
 My contacts:
- - LinkedIn `linkedin.com/in/roman-maksimov-83a1a022a/`
+ - LinkedIn `linkedin.com/in/roman-mksmv`
  - Email `get.my.email.name@yandex.ru`
