@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/ANTD-ec4152?style=for-the-badge&logo=antdesign&logoColor=white" />
     <img src="https://img.shields.io/badge/Gulp-dc4a4d?style=for-the-badge&logo=gulp&logoColor=white" />
     <img src="https://img.shields.io/badge/Webpack-1a72b6?style=for-the-badge&logo=webpack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=f2ce30" />
     <img src="https://img.shields.io/badge/Storybook-f1447e?style=for-the-badge&logo=storybook&logoColor=white" />
     <img src="https://img.shields.io/badge/Jest-913e56?style=for-the-badge&logo=jest&logoColor=white" />
     <img src="https://img.shields.io/badge/i18next-048e81?style=for-the-badge&logo=i18next&logoColor=white" />
@@ -57,7 +58,6 @@
   <div>
     <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
     <img src="https://img.shields.io/badge/Nest.js-white?style=for-the-badge&logo=nestjs&logoColor=d5214b" />
-    <img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=f2ce30" />
     <img src="https://img.shields.io/badge/Docker-218ee0?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-2f5c8b?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-021c29?style=for-the-badge&logo=mongodb&logoColor=00e25f" />
