@@ -57,6 +57,7 @@
   <br/>
   <div>
     <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
+    <img src="https://img.shields.io/badge/Runtypes-white?style=for-the-badge&logoColor=black" />
     <img src="https://img.shields.io/badge/Nest.js-white?style=for-the-badge&logo=nestjs&logoColor=d5214b" />
     <img src="https://img.shields.io/badge/Docker-218ee0?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-2f5c8b?style=for-the-badge&logo=postgresql&logoColor=white" />
