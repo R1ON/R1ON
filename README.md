@@ -60,7 +60,6 @@
     <img src="https://img.shields.io/badge/Runtypes-white?style=for-the-badge&logoColor=black" />
     <img src="https://img.shields.io/badge/XState-white?style=for-the-badge&logo=xstate&logoColor=black" />
     <img src="https://img.shields.io/badge/Nest.js-white?style=for-the-badge&logo=nestjs&logoColor=d5214b" />
-    <img src="https://img.shields.io/badge/Docker-218ee0?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-2f5c8b?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-021c29?style=for-the-badge&logo=mongodb&logoColor=00e25f" />
     <img src="https://img.shields.io/badge/SQLite-033953?style=for-the-badge&logo=sqlite&logoColor=7cc1e1" />
@@ -74,6 +73,7 @@
   </summary>
   <br/>
   <div>
+    <img src="https://img.shields.io/badge/Docker-218ee0?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Photoshop-011c33?style=for-the-badge&logo=adobephotoshop&logoColor=2fa0f2" />
     <img src="https://img.shields.io/badge/Figma-1c1c1c?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Jira-247cf2?style=for-the-badge&logo=jira&logoColor=white" />
