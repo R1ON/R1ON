@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/ReactQuery-002a47?style=for-the-badge&logo=reactquery&logoColor=f13e50" />
+    <img src="https://img.shields.io/badge/React%20Query-002a47?style=for-the-badge&logo=reactquery&logoColor=f13e50" />
     <img src="https://img.shields.io/badge/Redux-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux%20Toolkit-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux%20Saga-gray?style=for-the-badge&logo=reduxsaga&logoColor=7ecc61" />
@@ -71,6 +71,8 @@
   <br/>
   <div>
     <img src="https://img.shields.io/badge/Photoshop-011c33?style=for-the-badge&logo=adobephotoshop&logoColor=2fa0f2" />
+    <img src="https://img.shields.io/badge/Premiere%20Pro-00005b?style=for-the-badge&logo=adobepremierepro&logoColor=2fa0f2" />
+    <img src="https://img.shields.io/badge/Final%20Cut%20Pro-1c1c1c?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Figma-1c1c1c?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Jira-247cf2?style=for-the-badge&logo=jira&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-e44c31?style=for-the-badge&logo=git&logoColor=white" />
