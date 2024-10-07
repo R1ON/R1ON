@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/Redux-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux%20Toolkit-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux%20Saga-gray?style=for-the-badge&logo=reduxsaga&logoColor=7ecc61" />
+    <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
     <img src="https://img.shields.io/badge/Reselect-gray?style=for-the-badge" />
     <img src="https://img.shields.io/badge/MobX-d45819?style=for-the-badge&logo=mobx&logoColor=white" />
     <img src="https://img.shields.io/badge/GraphQL-d40490?style=for-the-badge&logo=graphql&logoColor=white" />
@@ -53,7 +54,6 @@
   </summary>
   <br/>
   <div>
-    <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
     <img src="https://img.shields.io/badge/Runtypes-white?style=for-the-badge&logoColor=black" />
     <img src="https://img.shields.io/badge/XState-white?style=for-the-badge&logo=xstate&logoColor=black" />
     <img src="https://img.shields.io/badge/Nest.js-white?style=for-the-badge&logo=nestjs&logoColor=d5214b" />
